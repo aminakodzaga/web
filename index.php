@@ -1,5 +1,5 @@
 <?php
 
-echo "Znaci Bože"
+echo "..."
 
  ?>
